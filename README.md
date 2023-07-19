@@ -31,7 +31,7 @@ We tested our model to see how well it could predict customer churn. We fitted f
 
 A combination of metrics such as accuracy, precision, recall, F1-score, and ROC- AUC can be used to evaluate the performance of the model and ensure that it meets the business requirements and goals of the telecom company.
 ![scores](https://github.com/Weru-Stanley/Group-2-Phase-3---SyriaTel-Churn-Rate-Project/assets/128227310/5b35723f-b1d5-4a7b-9f40-89ec70586d3f)
-![image](https://github.com/MucuiBen/SyriaTel-Customer-Churn-Analysis-/assets/127657429/316a0bf7-3205-4321-9fe5-dadcfa44ad30)
+https://user-images.githubusercontent.com/127657429/254720745-650939a6-d573-4204-a578-3e82e1573035.png
 The Gradient Boosting model demonstrates excellent performance with an accuracy of 96.08% and a balanced F1-score of 85.87%, indicating effective identification of churn cases while minimizing false positives.
 ![image](https://github.com/MucuiBen/SyriaTel-Customer-Churn-Analysis-/assets/127657429/426abcee-69c8-4f68-918a-fb353b2c7a90)
 
