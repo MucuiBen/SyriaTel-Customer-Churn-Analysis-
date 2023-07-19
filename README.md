@@ -1,4 +1,4 @@
-# SyriaTEL Customer Churn Analysis
+# SyriaTel Customer Churn Analysis
 ![OpenAI Logo](https://www.esriuk.com/content/dam/esrisites/en-us/industries/2022/telecommunications/assets/overview/industry-telecom-overview-two-thirds.jpg)
 
 ## Project Overview
