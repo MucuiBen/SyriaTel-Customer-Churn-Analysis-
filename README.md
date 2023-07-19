@@ -31,6 +31,7 @@ We tested our model to see how well it could predict customer churn. We fitted f
 
 A combination of metrics such as accuracy, precision, recall, F1-score, and ROC- AUC can be used to evaluate the performance of the model and ensure that it meets the business requirements and goals of the telecom company.
 ![scores](https://github.com/Weru-Stanley/Group-2-Phase-3---SyriaTel-Churn-Rate-Project/assets/128227310/5b35723f-b1d5-4a7b-9f40-89ec70586d3f)
+![image](https://github.com/MucuiBen/SyriaTel-Customer-Churn-Analysis-/assets/127657429/316a0bf7-3205-4321-9fe5-dadcfa44ad30)
 
 Additionally, the key features that were shown to influence whether a customer would churn or not can be seen in the bar plot displayed below. We can note that the total expenditure is a key predicting variable.
 ![features image](https://github.com/MucuiBen/SyriaTel-Customer-Churn-Analysis-/assets/127657429/9530593c-1ac0-4559-9dc9-a960d1bed494)
